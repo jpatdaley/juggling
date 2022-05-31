@@ -22,5 +22,3 @@ These routes provide users access to the full database through the Index page, w
 The Show pages for each item lists all the data collected when a new item is added (these elements are listed in the opening of this document.) The Show page--like the Index page--provides users access to buy an item, modify it, and delete it.
 
 When an item is out of stock, the Buy buttons on both the Index and Show pages are removed, and the latter page lists the message "Out of Stock." Please note that stock quantities are always the first specified piece of information on each item's title. 
-
-Future modifications will include changes in the customizations for each item.
