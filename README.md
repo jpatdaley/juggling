@@ -3,12 +3,19 @@ Jonathan's Juggling Ball Market is a responsive database which stores product na
 The market offers a variety of customization when it comes to storing this data, and does so by the implementation of the seven "RESTful Routes" seen below:
 
 /balls/ - GET - INDEX
+
 /balls/new - GET - NEW
+
 /balls/:id - DELETE - DESTROY
+
 /balls/:id - PUT - UPDATE
+
 /balls - POST - CREATE
+
 /balls/:id/edit - GET - EDIT
+
 /balls/:id - GET - SHOW
+
 
 These routes provide users access to the full database through the Index page, which links to the indiividual items' "Show" pages, and also offers users the ability to modify data, delete data, buy a product, and create a new one. 
 
